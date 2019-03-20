@@ -1,18 +1,17 @@
 ---
 templateKey: blog-post
-path: /bring-your-own-data
-title: Bring Your Own Data
+path: /static-progressive-web-apps
+title: Static Progressive Web Apps
+image: https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348527/big-daddy_ddfong.jpg
+date: 2017-08-08T17:12:33.962Z
+description: Gatsby.js is a static PWA (Progressive Web App) generator. You get code and data splitting out-of-the-box.
 authorImage: https://avatars1.githubusercontent.com/u/5263612?s=460&v=4
 author: Harrison McGuire
 authorTwitter: HarryMcGueeze
-image: https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348528/eathen-carter_dp9nub.jpg
-featuredVideo: https://www.youtube.com/watch?v=elSN-l2lhH0
-date: 2017-11-05T17:10:33.962Z
-description: Gatsby’s rich data plugin ecosystem lets you build sites with the data you want — from one or many sources, Pull data from headless CMSs, SaaS services, APIs, databases, your file system & more directly into your pages using GraphQL .
 tags:
-  - space
-  - games
-  - gatsby
+  - article
+  - world
+  - coffee
 ---
 ### Headings
 
@@ -29,8 +28,6 @@ tags:
 ###### Heading 6
 
 ---
-
-[![my alt text](https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348529/mega-man_tl5szm.jpg "my title text")](https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348529/mega-man_tl5szm.jpg)
 
 ### Text
 
@@ -99,6 +96,6 @@ Content Cell | Content Cell
 
 	var sum = add(num1, num2);
 
-	console.log(sum);
-
+  console.log(sum);
+  
 ```
