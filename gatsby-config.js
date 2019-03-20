@@ -31,7 +31,7 @@ try {
 */
 module.exports = {
     siteMetadata: {
-        siteUrl: https://site-1.netlify.com/,
+        siteUrl: 'https://site-1.netlify.com/',
     },
     plugins: [
         /**
