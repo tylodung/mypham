@@ -1,16 +1,14 @@
-siteTitle = 'Ghế tiffany giá sỉ'
-siteDescr = 'Ghế tiffany giá sỉ của Midorishop'
-siteDescription = "Ghế tiffany giá sỉ của Midorishop bền, đẹp, sang trọng"
-siteUrl = "http://ghetiffanygiasi.com"
-siteBandcampUrl = 'ghetiffanygiasi.com'
-siteAddress = '168A VÕ THỊ SÁU, P.8, Q.3, TP.HCM'
-siteAddress2 = '0918 870 780 - Mrs Nguyên'
+siteTitle = 'Mỹ Phẩm Á Châu'
+siteDescr = 'Rạng ngời nét đẹp Việt.'
+siteDescription = "Trắng da, chăm sóc da, trị liệu, và spa."
+siteUrl = "https://myphamachau.site/"
+siteBandcampUrl = 'https://myphamachau.site'
 siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
-siteFacebookUrl = 'https://www.facebook.com/dotrangtricuoi'
+siteFacebookUrl = 'https://www.facebook.com/AsiniceDung'
 siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
 siteTwitterUrl = 'https://twitter.com/nihon_ne'
 siteGoogleplusUrl = ''
 siteGithubUrl = 'https://github.com/nihonne'
-siteYoutubeUrl = 'https://www.youtube.com/channel/UCi7yyqrKPqbYwT-pvmqsgYw'
+siteYoutubeUrl = 'https://www.youtube.com/channel/UC2xhVmkOYPKibhJm3f0f3hw'
 
 linkPrefix = '/'

@@ -4,7 +4,7 @@ import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
 
 import './style.scss'
-import logoBakaDonoLarge from '../../static/img/svg-icons/bakadono.svg'
+import logoBakaDonoLarge from '../../static/img/svg-icons/achau.svg'
 
 class HomePage extends React.Component {
     render() {

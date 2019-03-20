@@ -1,24 +1,27 @@
 ---
-title: 'Giới thiệu Ghế tiffany giá sỉ - Thương hiệu Ghế tiffany do Midorishop cung cấp'
+title: 'Giới thiệu về Mỹ Phẩm Á Châu - Gọi 090-268-3189 Đoàn Bình giao tận nơi'
 layout: HomePage
 path: '/about/'
-meta: Giới thiệu Ghế tiffany giá sỉ - Thương hiệu Ghế tiffany do Midorishop cung cấp
-keywords: Giới thiệu Ghế tiffany giá sỉ - Thương hiệu Ghế tiffany do Midorishop cung cấp
+meta: Giới thiệu về Mỹ Phẩm Á Châu - Gọi 090-268-3189 Đoàn Bình giao tận nơi
+keywords: Giới thiệu về Mỹ Phẩm Á Châu - Gọi 090-268-3189 Đoàn Bình giao tận nơi
 ---
 
-Giới thiệu Ghế tiffany giá sỉ - Thương hiệu Ghế tiffany do Midorishop cung cấp
+Mỹ Phẩm Á Châu giới thiệu
 
-**Giới thiệu Ghế tiffany giá sỉ - Thương hiệu Ghế tiffany do Midorishop cung cấp** khởi nguồn được chính thức thành lập bởi **Midorishop** vào ngày 24 tháng 04 năm 2018 từ hệ thống kinh doanh hoa vải, Chân nến trang trí tiệc cưới, ghế Tiffany.
+**Mỹ Phẩm Á Châu** được thành lập vào năm 2014, bởi Đoàn Trọng Bình đặt trụ sở tại Hóc Môn, Thành phố Hồ Chí Minh.
 
-Chuyên về các dòng Ghế tiffany cao cấp, sang trọng, bền bỉ, tốt, sử dụng lâu dài.
+Trải qua bao thăng trầm, Mỹ Phẩm Á Châu vẫn đứng vững cho đến tận ngày nay, trở thành một trong những nơi tư vấn chất lượng sản phẩm, giao hàng nhanh, giá cả tốt, rẻ phù hợp với thị hiếu của các khách hàng về chăm sóc và làm đẹp cơ thể.
 
-## Giới thiệu Ghế tiffany giá sỉ - Thương hiệu Ghế tiffany do Midorishop cung cấp
-
-Tên gọi: **Giới thiệu Ghế tiffany giá sỉ - Thương hiệu Ghế tiffany do Midorishop cung cấp** 
-
-Điện thoại liên hệ: [**0918 870 780**](tel:+84918870780) (Midorishop)
-Địa chỉ 168A VÕ THỊ SÁU, P.8, Q.3, TP.HCM
+Vào **Năm 2017**, **Mỹ Phẩm Á Châu** chính thức được sáp nhập với **Thảo Am** để phát triển các ứng dụng thanh toán trực tuyến, website, và quảng cáo trực tuyến nhằm nâng cao chất lượng, sản phẩm, dịch vụ và cải tiến các phương thức giao hàng cho phù hợp với khách hàng ngày nay, giúp thuận tiện mua sắm, tư vấn nhanh và an toàn cho người sử dụng.
 
 
-Facebook chính  [**Đồ trang trí tiệc cưới**](https://www.facebook.com/dotrangtricuoi).
-Đặt hàng & Nhắn tin Message, Chăm sóc khách hàng qua Facebook: [**Send Message, Order, CSKH via Fanpage**](https://www.facebook.com/dotrangtricuoi)
+## Thông tin chi tiết Mỹ Phẩm Á Châu
+
+Tên gọi: **Mỹ Phẩm Á Châu**
+
+Điện thoại liên hệ: [**090-268-3189**](tel:+84902683189) (Đoàn Bình)
+Địa chỉ quán tại: 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.
+
+
+Facebook chính của Mỹ Phẩm Á Châu: [**Mỹ Phẩm Á Châu Facebook Page**](https://www.facebook.com/AsiniceDung)
+Đặt hàng & Nhắn tin Message, Chăm sóc khách hàng qua Facebook: [**Send Message, Order, CSKH via Fanpage Mỹ Phẩm Á Châu**](http://m.me/AsiniceDung)

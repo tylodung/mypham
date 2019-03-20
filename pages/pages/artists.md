@@ -1,7 +1,7 @@
 ---
-title: 'Chân nến poly'
+title: 'Danh mục Trà Sữa Phú Quốc'
 layout: Artists
 path: '/artists/'
-meta: Danh mục Chân nến poly
-keywords: Chân nến poly
+meta: Danh mục Trà Sữa Phú Quốc
+keywords: Danh mục Trà Sữa Phú Quốc
 ---
