@@ -1,0 +1,34 @@
+.sidebar {
+    min-width: 30%;
+
+    &__title {
+	padding-left: 10px;
+    }
+    &__sponsor {
+        font-size: 10px;
+	padding-left: 10px;
+    }
+    &__link {
+	padding-left: 10px;
+	border-left-style: dotted;
+	a {
+      color: #726773;
+      text-decoration: none;
+      padding: .1em .5em;
+      background-color: #d3d0d4;
+      display: flex;
+      margin-top: 5px;
+      border-style: dashed;
+      border-left-width: 15px;
+      &.is-selected {
+        color: #6d5522;
+	text-decoration: underline;
+      }
+      &:before,
+      &:after, &:hover {
+	text-decoration: underline;
+        background: #fff;
+      }
+    }
+    }
+}
