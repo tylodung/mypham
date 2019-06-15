@@ -1,4 +1,4 @@
-# Gastby Starter Ghost
+# Gatsby Starter Ghost
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
 
@@ -20,7 +20,7 @@ gatsby new gatsby-starter-ghost https://github.com/TryGhost/gatsby-starter-ghost
 
 ```bash
 # From Source
-git clone git@github.com:TryGhost/gatsby-starter-ghost.git
+git clone https://github.com/TryGhost/gatsby-starter-ghost.git
 cd gatsby-starter-ghost
 ```
 
@@ -42,7 +42,7 @@ gatsby develop
 
 By default, the starter will populate content from a default Ghost install located at https://gatsby.ghost.io.
 
-To use your own install, edit the `.ghost.json` config file with your credentials. You can find or your `contentApiKey` in the "Integrations" screen in Ghost Admin.
+To use your own install, edit the `.ghost.json` config file with your credentials. You can find your `contentApiKey` in the "Integrations" screen in Ghost Admin. The minimum required version for Ghost is `2.10.0` in order to use this starter without issues.
 
 &nbsp;
 
