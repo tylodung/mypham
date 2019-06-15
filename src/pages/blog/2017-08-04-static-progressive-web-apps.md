@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348527/big-daddy_d
 ---
 ### Headings
 
-# Heading 1
+# Heading 
 
 ## Heading 2
 
